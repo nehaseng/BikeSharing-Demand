@@ -27,12 +27,12 @@ Based on various meteorological surveys and people's styles, the service provide
 - Further, the model will be a good way for management to understand the demand dynamics of a new market.
   
 ## Technologies Used:
-Python - version 3.11.8
-Pandas - version 2.2.1
-Matplotlib,Seaborn
-ScikitLearn 
-Statsmodels.api
-Jupyter notebook
+- Python - version 3.11.8
+- Pandas - version 2.2.1
+- Matplotlib,Seaborn
+- ScikitLearn 
+- Statsmodels.api
+- Jupyter notebook
 
 ## Conclusions
 - Temp, windspeed, holiday, yr are some of the top features that govern the demand for rental bikes 
