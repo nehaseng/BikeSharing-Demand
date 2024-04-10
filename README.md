@@ -1,5 +1,5 @@
 # BoomBikes Demand prediction
-> Predicting the demand for rental bikes for a bikesharing company called Boombikes, using Linear regression
+> Predicting the demand for rental bikes for a bikesharing company called Boombikes, using Multiple Linear regression
 
 
 ## Table of Contents
