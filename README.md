@@ -41,10 +41,6 @@ Based on various meteorological surveys and people's styles, the service provide
 - Therefore,we can say that our model has done a good job at predicting demand for bikes 
 
 
-## Acknowledgements
-This project was inspired by the Projects hosted by Upgrad & IITB for their Machine learning and Artifical Intelligence programme.
-
-
 ## Contact
 Created by @nehaseng - feel free to contact me!
 
